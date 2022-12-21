@@ -11,9 +11,9 @@
      
 # 2. Put burpsuite_pro_v*.jar File in Burpy Folder Together
 
-# 3. Change Directory To Burp-Suite-Pro By Using Command:
+# 3. Change Directory To Burpy By Using Command:
      cd Burpy
-# 4. Now Run Install-Burp-Pro.sh By Using Command:
+# 4. Now Run Burpy By Using Command:
      sudo bash burpy.sh 
 # 5. After Installation Use Command:
      burpy | ligen
