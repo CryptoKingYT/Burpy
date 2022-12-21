@@ -1,0 +1,6 @@
+#!/bin/bash
+# Coded by CryptoKing
+sudo apt install figlet lolcat -y 
+clear
+figlet -f slant 'BURPY' | lolcat && figlet -f digital  " Coded by CryptoKing" | lolcat
+
