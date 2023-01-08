@@ -10,8 +10,7 @@ if [ "$(id -u)" != "0" ]; then
    exit 1
 fi
 
-apt install figlet lolcat -y 
-clear
+
 figlet -f slant 'BURPY' | lolcat && figlet -f digital  " Coded by CryptoKing" | lolcat
 figlet -f digital  "Installing Java" | lolcat
 apt install openjdk-11-jre -y 
