@@ -14,7 +14,7 @@
 # 3. Change Directory To Burpy By Using Command:
      cd Burpy
 # 4. Now Run Burpy By Using Command:
-     sudo bash burpy
+     bash burpy
 # 5. After Installation Use Command:
      burpy | ligen
  
