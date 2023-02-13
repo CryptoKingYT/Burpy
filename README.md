@@ -6,7 +6,7 @@
      https://portswigger.net/burp/releases#professional 
      
 # And Clone Burpy By Using Command:
-     sudo apt install git -y && \
+     sudo apt install git lolcat figlet -y && \
      git clone https://github.com/CryptoKingYT/Burpy.git
      
 # 2. Put burpsuite_pro_v*.jar File in Burpy Folder Together
